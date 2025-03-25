@@ -49,6 +49,8 @@ function applyTranslations(translations) {
     document.getElementById('teMilenarioAsiatico').textContent = translations.teMilenarioAsiatico;
     document.getElementById('hormonaAdelgazante').textContent = translations.hormonaAdelgazante;
     document.getElementById('tonicoHormonal').textContent = translations.tonicoHormonal;
+    document.getElementById('footer').textContent = translations.footer;
+    document.getElementById('footer').href = translations.footerHref;
 }
 
 // Detecta o idioma do navegador ou usa 'es' (Espanhol) como padrão
