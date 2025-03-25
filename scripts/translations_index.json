@@ -21,7 +21,7 @@
   "genderQuestion": "Quelle est votre routine?",
   "male": "Modérée",
   "female": "Active",
-  "activityQuestion": "Quel est votre niveau de dysfonction ?",
+  "activityQuestion": "Quel est votre niveau de dysfonction?",
   "activities": ["Aucun", "Minime", "Modéré", "Très élevé", "Extrêmement élevé"],
   "submit": "Entrer"
   },
