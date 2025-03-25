@@ -51,6 +51,13 @@ function applyTranslations(translations) {
     document.getElementById('tonicoHormonal').textContent = translations.tonicoHormonal;
     document.getElementById('footer').textContent = translations.footer;
     document.getElementById('footer').href = translations.footerHref;
+    document.getElementById('buttoncasanovaHref').onclick = function() {
+        window.location.href = translations.buttoncasanovaHref;
+    };
+    
+    document.getElementById('buttonfrasesHref').onclick = function() {
+        window.location.href = translations.buttonfrasesHref;
+    };
 }
 
 // Detecta o idioma do navegador ou usa 'es' (Espanhol) como padrão
