@@ -13,17 +13,17 @@
     "submit": "Entrar"
   },
   "fr": {
-    "welcome": "Bienvenue à l'<span>Pomme App</span>, remplissez vos informations pour générer votre <span>plan personnalisé !</span> ♂️",
-    "age": "Âge",
-    "height": "Taille (en cm)",
-    "weight": "Poids (en kg)",
-    "desiredWeight": "Poids désiré (en kg)",
-    "genderQuestion": "Quel est votre sexe ?",
-    "male": "Masculin",
-    "female": "Féminin",
-    "activityQuestion": "Quel est votre niveau d'activité quotidienne ?",
-    "activities" : ["Aucune activité", "Activité minimale", "Activité modérée", "Très actif", "Extrêmement actif"],
-    "submit": "Entrer"
+  "welcome": "<span>Bienvenue !</span> Remplissez vos informations pour générer votre <span>plan personnalisé !</span> ♂️",
+  "age": "E-mail",
+  "height": "Âge",
+  "weight": "Poids (en kg)",
+  "desiredWeight": "Taille (en cm)",
+  "genderQuestion": "Quelle est votre routine ?",
+  "male": "Modérée",
+  "female": "Active",
+  "activityQuestion": "Quel est votre niveau de dysfonction ?",
+  "activities": ["Aucun", "Minime", "Modéré", "Très élevé", "Extrêmement élevé"],
+  "submit": "Entrer"
   },
   "pt": {
     "welcome": "<span>Bem-vindo!<span> Preencha seus dados para gerar seu <span>plano personalizado!</span> ♂️",
