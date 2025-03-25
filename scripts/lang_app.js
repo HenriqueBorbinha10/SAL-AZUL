@@ -18,7 +18,7 @@ function loadImages(lang) {
     const pathImages = {
         "pt": "assets/images_pt/",
         "es": "assets/images/",
-        "fr": "assets/images/",
+        "fr": "assets/images_fr/",
     }
 
     document.getElementById('imageApp2').src = pathImages[lang] + "APP2.png";
@@ -30,7 +30,7 @@ function loadImages(lang) {
     const pathIcons = {
         "pt": "assets/icons_pt/",
         "es": "assets/icons/",
-        "fr": "assets/icons/",
+        "fr": "assets/icons_fr/",
     }
 
     document.getElementById('iconMaca').src = pathIcons[lang] + "maca.png";
@@ -49,6 +49,8 @@ function applyTranslations(translations) {
     document.getElementById('teMilenarioAsiatico').textContent = translations.teMilenarioAsiatico;
     document.getElementById('hormonaAdelgazante').textContent = translations.hormonaAdelgazante;
     document.getElementById('tonicoHormonal').textContent = translations.tonicoHormonal;
+    document.getElementById('footer').textContent = translations.footer;
+    document.getElementById('footer').href = translations.footerHref;
 }
 
 // Detecta o idioma do navegador ou usa 'es' (Espanhol) como padrão
