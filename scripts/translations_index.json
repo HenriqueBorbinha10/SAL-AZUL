@@ -13,12 +13,12 @@
     "submit": "Entrar"
   },
   "fr": {
-  "welcome": "<span>Bienvenue !</span> Remplissez vos informations pour générer votre <span>plan personnalisé !</span> ♂️",
+  "welcome": "<span>Bienvenue!</span> Remplissez vos informations pour générer votre <span>plan personnalisé!</span> ♂️",
   "age": "E-mail",
   "height": "Âge",
   "weight": "Poids (en kg)",
   "desiredWeight": "Taille (en cm)",
-  "genderQuestion": "Quelle est votre routine ?",
+  "genderQuestion": "Quelle est votre routine?",
   "male": "Modérée",
   "female": "Active",
   "activityQuestion": "Quel est votre niveau de dysfonction ?",
